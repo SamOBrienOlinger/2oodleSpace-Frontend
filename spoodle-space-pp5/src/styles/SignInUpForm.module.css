@@ -1,0 +1,74 @@
+  .Input {
+    background: #ffffff;
+    border: 1px solid #f0f1f9;
+    box-sizing: border-box;
+    border-radius: 2px;
+    color: #7177a1;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  .Header {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    /* color: #7112FB2; */
+    color: #7177a1;
+  }
+  
+  .Link {
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    margin: auto;
+  }
+  
+  .SignInUpForm_Link__1BeMm span {
+    color: #7177a1;
+  }
+
+  .Link span {
+    color: #7112FB2;
+  }
+  
+  .Container {
+    padding: 30px 10px;
+  }
+  
+  .SignInCol {
+    height: 320px;
+  }
+  
+  .SignUpCol {
+    height: 375px;
+  }
+
+  #home.image {
+
+    background-image: src="https://res.cloudinary.com/dzhbg6go0/image/upload/v1670254218/CockapooClub/Benjiline1_qrxkoe.webp;";
+  }
+
+  .signin {
+
+    color: #7177a1;
+  }
+
+  a:hover {
+    text-decoration: none;
+    color: yellow;
+  }
+  
+  a:hover i {
+    color: yellow;
+    transition: color ease-in-out 0.3s;
+  }
+
+  #centreform {
+
+    margin-left: auto;
+    margin-right: auto;
+  }

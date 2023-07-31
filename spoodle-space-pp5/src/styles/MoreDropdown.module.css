@@ -1,0 +1,16 @@
+.DropdownItem {
+    display: inline-block;
+    max-width: 50%;
+    padding: 0px;
+  }
+  
+  .Absolute {
+    position: absolute;
+    right: 0;
+    z-index: 99;
+  }
+
+  a:hover i {
+    color: yellow;
+    transition: color ease-in-out 0.3s;
+  }

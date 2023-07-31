@@ -1,0 +1,16 @@
+{
+  "short_name": "React App",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "/workspace/spoodle-space-pp5/public/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo2-spoodlespace.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ]
+}
