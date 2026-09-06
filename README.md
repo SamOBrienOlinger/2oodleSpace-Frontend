@@ -17,7 +17,7 @@ A further SpoodleSpace frontend iteration, with the React application inside spo
 
 ## Getting started
 
-Requires Node.js and npm. Declared versions: `node 16.20.0`, `npm 8.19.4`.
+Requires Git, Node.js and npm. Declared versions: `node 16.20.0`, `npm 8.19.4`.
 
 ```bash
 git clone https://github.com/SamOBrienOlinger/2oodleSpace-Frontend.git
@@ -40,6 +40,8 @@ For API-backed features, configure [spoodle-space-pp5/src/api/axiosDefaults.js](
 | [spoodle-space-pp5/package.json](spoodle-space-pp5/package.json) | Package dependencies and available commands |
 
 ## Checks and review
+
+Run the commands below from the **repository root**, `2oodleSpace-Frontend/`. If you are still inside `spoodle-space-pp5/` after the quick start, run `cd ..` first. Alternatively, stay in that application directory and omit `--prefix spoodle-space-pp5` from each command.
 
 Use Node.js `16.20.0` and npm for the package commands below. Install the package dependencies first when the command uses a local build or test tool.
 
